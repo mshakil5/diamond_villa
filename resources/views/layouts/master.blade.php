@@ -5,7 +5,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diamonds INN  - York - Yorkshire</title>
+    <title>Diamonds Villa  - York - Yorkshire</title>
     <meta name="description" content="Treat Yourself at Diamonds Inn, York. Browse Reviews. Our Price Guarantee. Check Out What Users Loved About This Property. Book the Room">
    <meta name="keywords" content="guest hosue, student house, accomodation, york, cheap hotel, B and B,bed and breakfast, yorkshire, west yorkshire, england, north england, diamonds inn, air bnb,  ">
   
