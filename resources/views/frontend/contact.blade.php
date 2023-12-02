@@ -11,8 +11,11 @@
                 <h2 class="title-global text-center">
                     Contact & Location
                 </h2>
-                 <p><b>From Train Station (1.1 miles)</b></p>
-                    <p>1. Head north, Turn right towards Station Rd/A1036 2.Turn left towards Station Rd/A1036 3. Drive to A1036 .</p>
+                <p><b>From Train Station (1.5 miles)</b></p>
+                <p>Continue to Station Rd/A1036 1 min (423 ft) Follow A1036, B1363 and Haxby Rd to Rose St 7 min (1.3 mi) Continue on Rose St. Drive to Vyner St</p>
+                <br/>
+                <p><b>Road from A64 (4.0 miles)</b></p>
+                <p>If you are travelling by car, we have a detailed map of the local routes by road below. To avoid the city traffic and one-way system, we suggest that you follow the Northen Ring Road (A1237). Turn into York at Roundabout with B1363 and follow signs for District Hospital. Turn sharp left at traffic lights onto Haxby Road after the Hospital. Continue up past Diamonds Villa (on Left) then take second left into Rose Street (Before Bridge)</p>
 
 
             </div>
@@ -57,7 +60,9 @@
             <div class="col-md-6">
                 
                
-               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2347.1758136237877!2d-1.0786378236890308!3d53.96414557247496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487931a4c0728203%3A0x1f2ea6fd64e2bb9a!2sOYO%20Diamonds%20Inn!5e0!3m2!1sen!2suk!4v1688473565459!5m2!1sen!2suk" width="100%" height="380" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2346.745528269417!2d-1.0802137841378687!3d53.971786480114865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879319862e2344f%3A0xed396ee67a5dbdd!2sOYO%20Diamonds%20Villa!5e0!3m2!1sen!2suk!4v1688472725622!5m2!1sen!2suk" width="100%" height="380" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
             </div>
         </div>
     </div>

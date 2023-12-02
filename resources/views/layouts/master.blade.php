@@ -30,7 +30,7 @@
                     <a href="#" class="">
                         <img src="{{ asset('assets/frontend/images/logo.png')}}" width="150px">
                     </a>
-                    <p class="text-light d-block mt-3">Diamonds Inn Ltd , 39 Monkgate, York, North Yorkshire, YO31 7PB, United Kingdom  </p>
+                    <p class="text-light d-block mt-3"> Diamonds Villa , 2 Vyner Street Haxby Road, York, North Yorkshire, YO31 8HS, United Kingdom   </p>
 
                 </div>
                 <div class=" col-md-3 mb-3">
@@ -66,10 +66,12 @@
                 </div>
                 <div class=" col-md-3 mb-3">
                     <h4 class=" fw-bold mb-3 darkerGrotesque-semibold">Contact</h4>
-                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon class=" pe-2" icon="ic:baseline-local-phone"></iconify-icon>   +447717941122</p>
-                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon class=" pe-2" icon="tabler:brand-whatsapp"></iconify-icon>  +447717941122 </p>
-                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon class=" pe-2" icon="ic:outline-email"></iconify-icon>diamondsinnyork@gmail.com</p>
-                    
+                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon
+                            class=" pe-2" icon="ic:baseline-local-phone"></iconify-icon>  +447778529048</p>
+                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon
+                            class=" pe-2" icon="tabler:brand-whatsapp"></iconify-icon> +447778529048 </p>
+                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon
+                            class=" pe-2" icon="ic:outline-email"></iconify-icon>diamondsvillayork@gmail.com</p>
                 </div>
                 <div class=" col-md-3 mb-3">
 
@@ -83,10 +85,10 @@
                         </li>
                         
                         <li class="mb-2">
-                            <a href="https://www.diamondsinn.co.uk/" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon> Terms &amp; Conditions</a>
+                            <a href="{{route('homepage')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon> Terms &amp; Conditions</a>
                         </li>
                         <li class="mb-2">
-                            <a href="https://www.diamondsinn.co.uk/" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Privacy &amp; Policy</a>
+                            <a href="{{route('homepage')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Privacy &amp; Policy</a>
                         </li>
                     </ul>
 
@@ -98,7 +100,7 @@
             <div class="row pb-4">
                 <div class="col-md-12 text-center">
                  
-                    <span>&copy; Copyright@ 2016 Diamonds INN Ltd. all right reserved | Design and Developed by .&nbsp;</span><a href="http://www.mentosoftware.co.uk/" target="_blank" rel="lightbox noopener noreferrer" style="color: rgb(255, 255, 255); text-decoration: none; background-color: rgb(255, 102, 51); font-family: ourfont-light; font-variant-ligatures: normal; letter-spacing: 1px; orphans: 2; text-align: center; widows: 2;">Mento Software</a></span>
+                    <span>&copy; Copyright@ 2016 Diamonds Villa all right reserved | Design and Developed by .&nbsp;</span><a href="http://www.mentosoftware.co.uk/" target="_blank" rel="lightbox noopener noreferrer" style="color: rgb(255, 255, 255); text-decoration: none; background-color: rgb(255, 102, 51); font-family: ourfont-light; font-variant-ligatures: normal; letter-spacing: 1px; orphans: 2; text-align: center; widows: 2;">Mento Software</a></span>
                 </div>
             </div>
         </div>
