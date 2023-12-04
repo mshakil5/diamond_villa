@@ -16,7 +16,7 @@
                 </p>
             </div>
             <div class="col-md-8 mx-auto ">
-                <h2 class="title-global text-center"  style="color: #bf00db;">Welcome to Diamonds INN <br> </h2>
+                <h2 class="title-global text-center"  style="color: #bf00db;">Welcome to Diamonds Villa <br> </h2>
             </div>
             <div class="col-md-9 mx-auto text-justify">
                 <div class="about-right ">
