@@ -129,23 +129,24 @@
             <div class="col-md-9 mx-auto text-justify">
                 <div class="about-right ">
                     <h2 class="title-global text-center">Welcome to Diamonds Villa</h2>
-                    <p>Built in 1876 Diamonds Villa is an elegant, tastefully decorated Victorian home, conveniently located in the beautiful historic City of York. The guest house presents itself as an ideal base for you to explore the historical city of York.<br/> 
+                    <p>Built in 1876 <b>Diamonds Villa</b> is an elegant, tastefully decorated Victorian home, conveniently located in the beautiful historic City of York. The guest house presents itself as an ideal base for you to explore the historical city of York.<br/> 
                     
                         <br/>We are close to the York District Hospital and the York St John University which is all within walking distance.  <br/>
                         
-                        <br/>Diamonds Villa is also situated in an area of York, which is close to all of York's attractions such as The Jorvik Viking Centre, National Railway Museum, York Minister, Knavesmire Racecourse, The Shambles, York Dungeons and many more. <br/>
-                            The perfect destination for a luxurious escape to the beautiful city of York, for a business trip in style or just to have a comfortable and relaxing mini-break.<br/>
+                        <br/><b>Diamonds Villa</b> is also situated in an area of York, which is close to all of York's attractions such as The Jorvik Viking Centre, National Railway Museum, York Minister, Knavesmire Racecourse, The Shambles, York Dungeons and many more. <br/>
+                        The perfect destination for a luxurious escape to the beautiful city of York, for a business trip in style or just to have a comfortable and relaxing mini-break.<br/>
                         
                         
                         
                         <br/> Choose from our cosy double en-suite, triple en-suite, or for a little extra space you can choose a family deluxe en-suite. <br/>
                         
-                        </br>Whichever you choose, your stay will be made complete with a comfy bed and spacious en-suite. As a guest you'll also enjoy free Wi-Fi, flat screen TV and complimentary refreshments, so that you can rest easy during your stay.<br/>
+                        <br>
+                        Whichever you choose, your stay will be made complete with a comfy bed and spacious en-suite. As a guest you'll also enjoy free Wi-Fi, flat screen TV and complimentary refreshments, so that you can rest easy during your stay.<br/>
                         
-                        <br/>Our team at Diamonds Villa will be more than happy to guide you at any of the famous destinations in the historical City of York. We will also strive to maintain a courteous and friendly atmosphere during your stay at our guest house. <br/>
+                        <br/>Our team at <b>Diamonds Villa</b> will be more than happy to guide you at any of the famous destinations in the historical City of York. We will also strive to maintain a courteous and friendly atmosphere during your stay at our guest house. <br/>
                         <br/>
                     </p>
-                    <p>The Diamonds Team is a family run business, which has now been running for 2015. Diamonds Villa is the second addition to the 'Diamonds' chain after the successful establishment of 'Diamonds Guest House’</p>
+                    <p>The Diamonds Team is a family run business, which has now been running for 2015. <b>Diamonds Villa</b> is the second addition to the '<b>Diamonds</b>' chain after the successful establishment of '<b>Diamonds Guest House</b>’</p>
                 </div>
             </div>
         </div>

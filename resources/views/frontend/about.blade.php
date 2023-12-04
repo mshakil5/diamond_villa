@@ -20,17 +20,24 @@
             </div>
             <div class="col-md-9 mx-auto text-justify">
                 <div class="about-right ">
-                   <p><b>Diamonds Inn</b> is a 3 storey Grade 2 listed Georgian Town House dating back to 1794. The guest house presents itself as an ideal base for you to explore the historical city of York, Monkgate is just 450 yards from York Minister and the city walls is within 2 minutes walking distance.
-
-                    <br/><br/>Almost, at the heart of York City, you can stroll to all of York's amazing and historical sites and attractions. York National Art Gallery, National Railway Museum, York Minister, Bar Walls are only few mentioned that are minutes’ walk away and many, many more to explore as you venture through this beautiful Viking city. 
-
-                    <br/><br/><b>Diamonds Inn</b> is the perfect destination if you want everything at your doorstep. Enjoy this historical city with modern twist, with many chic, classic restaurants, bespoke cafes, trendy bars and traditional pubs. 
-
-                    <br/><br/>Choose the best suited rooms for your stay from any of our 11 rooms of double en-suite, triple en-suite, or for a little extra space choose a family en-suite. Whichever you choose, your stay will be made complete with a comfy bed, free Wi-Fi, Freeview TV and complimentary refreshments. A mini fridge is provided for your convenience. 
-
-                    <br/><br/>Our team at <b>Diamonds Inn</b> will be more than happy to guide you at any of the famous destinations in the historical City of York. We will also strive to maintain a courteous and friendly atmosphere during your stay at our guest house.</p>
-                    </br>
-                </br>
+                    <p>Built in 1876 <b>Diamonds Villa</b> is an elegant, tastefully decorated Victorian home, conveniently located in the beautiful historic City of York. The guest house presents itself as an ideal base for you to explore the historical city of York.<br/> 
+                    
+                        <br/>We are close to the York District Hospital and the York St John University which is all within walking distance.  <br/>
+                        
+                        <br/><b>Diamonds Villa</b> is also situated in an area of York, which is close to all of York's attractions such as The Jorvik Viking Centre, National Railway Museum, York Minister, Knavesmire Racecourse, The Shambles, York Dungeons and many more. <br/>
+                            The perfect destination for a luxurious escape to the beautiful city of York, for a business trip in style or just to have a comfortable and relaxing mini-break.<br/>
+                        
+                        
+                        
+                        <br/> Choose from our cosy double en-suite, triple en-suite, or for a little extra space you can choose a family deluxe en-suite. <br/>
+                        
+                        <br>
+                        Whichever you choose, your stay will be made complete with a comfy bed and spacious en-suite. As a guest you'll also enjoy free Wi-Fi, flat screen TV and complimentary refreshments, so that you can rest easy during your stay.<br/>
+                        
+                        <br/>Our team at <b>Diamonds Villa</b> will be more than happy to guide you at any of the famous destinations in the historical City of York. We will also strive to maintain a courteous and friendly atmosphere during your stay at our guest house. <br/>
+                        <br/>
+                    </p>
+                    <p>The Diamonds Team is a family run business, which has now been running for 2015. <b>Diamonds Villa</b> is the second addition to the '<b>Diamonds</b>' chain after the successful establishment of '<b>Diamonds Guest House</b>’</p>
                 
                 </div>
             </div>
