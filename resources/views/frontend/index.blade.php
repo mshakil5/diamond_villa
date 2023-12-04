@@ -128,7 +128,7 @@
         <div class="row">
             <div class="col-md-9 mx-auto text-justify">
                 <div class="about-right ">
-                    <h2 class="title-global text-center">Welcome to Diamonds Villa</h2>
+                    {{-- <h2 class="title-global text-center">Welcome to Diamonds Villa</h2> --}}
                     <p>Built in 1876 <b>Diamonds Villa</b> is an elegant, tastefully decorated Victorian home, conveniently located in the beautiful historic City of York. The guest house presents itself as an ideal base for you to explore the historical city of York.<br/> 
                     
                         <br/>We are close to the York District Hospital and the York St John University which is all within walking distance.  <br/>
