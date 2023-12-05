@@ -152,6 +152,8 @@
         </div>
         <div class="row mt-5 mb-3">
             <div class="blog-slider">
+
+                {{-- Triple room-Shared Bathroom --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
@@ -170,10 +172,12 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Double room-Ensuite --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/doubleroomensuite.jpg')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/doubleroomensuite.jpg')}}" alt="" style="height: 405px">
                         </a>
                     </div>
                     <div class="blog-content">
@@ -188,6 +192,8 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Twin room-Superior-Ensuite --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
@@ -206,6 +212,8 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Double room-Standard-Ensuite --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
@@ -224,6 +232,8 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Single room ensuite --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
