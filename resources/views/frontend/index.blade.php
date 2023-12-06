@@ -237,7 +237,7 @@
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/singleroom.jpg')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/commingsoon.jpg')}}" alt="">
                         </a>
                     </div>
                     <div class="blog-content">
