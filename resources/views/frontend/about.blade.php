@@ -37,7 +37,22 @@
                         <br/>Our team at <b>Diamonds Villa</b> will be more than happy to guide you at any of the famous destinations in the historical City of York. We will also strive to maintain a courteous and friendly atmosphere during your stay at our guest house. <br/>
                         <br/>
                     </p>
-                    <p>The Diamonds Team is a family run business, which has now been running for 2015. <b>Diamonds Villa</b> is the second addition to the '<b>Diamonds</b>' chain after the successful establishment of '<b>Diamonds Guest House</b>’</p>
+                    <p>The Diamonds Team is a family run business, which has now been running for 2015. <b>Diamonds Villa</b> is the second addition to the '<b>Diamonds</b>' chain after the successful establishment of '<b>Diamonds Guest House</b>’.</p>
+                    <br>
+
+                    <p><b>Limited Private parking available</b></p>
+                        <p  style="color: red"><b>Check-in time:  2:00 pm <br>Check-out time: 	10.30 am</b></p>
+                        <p><b>Address & contact information:</b></p>
+                        <p>2 Vyner Street</p>
+                        <p>Haxby Road</p>
+                        <p>York </p>
+                        <p>YO31 8HS</p>
+                        <br>
+                        <p  style="color: red">For Booking: call 07340631122, 07778529048, 07717941122 <br>
+                        Email: diamondsvillayork@gmail.com</p>
+                        <p>Directions:	(Link)</p>
+                        <p>Public Parking:	Jaipur Spice Car Park <a href="https://www.carparkyork.com/" target="_blank"></a>www.carparkyork.com</p>
+                        <p>Nearest Bus Stops: Walpole Street & Haxby Road Primary School</p>
                 
                 </div>
             </div>
